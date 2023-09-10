@@ -8,9 +8,7 @@ variable "location" {
   description = "The location to create storage"
 }
 
-/*
 variable "project" {
   type        = string
   description = "The project ID"
 }
-*/
